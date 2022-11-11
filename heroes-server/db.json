@@ -1,0 +1,318 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-green",
+      "superhero": "Green Lantern",
+      "publisher": "DC Comics",
+      "alter_ego": "Alan Scott",
+      "first_appearance": "All-American Comics #16",
+      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
+    },
+    {
+      "id": "dc-arrow",
+      "superhero": "Green Arrow",
+      "publisher": "DC Comics",
+      "alter_ego": "Oliver Queen",
+      "first_appearance": "More Fun Comics #73",
+      "characters": "Oliver Queen"
+    },
+    {
+      "id": "dc-wonder",
+      "superhero": "Wonder Woman",
+      "publisher": "DC Comics",
+      "alter_ego": "Princess Diana",
+      "first_appearance": "All Star Comics #8",
+      "characters": "Princess Diana"
+    },
+    {
+      "id": "dc-martian",
+      "superhero": "Martian Manhunter",
+      "publisher": "DC Comics",
+      "alter_ego": "J\"onn J\"onzz",
+      "first_appearance": "Detective Comics #225",
+      "characters": "Martian Manhunter"
+    },
+    {
+      "id": "dc-robin",
+      "superhero": "Robin/Nightwing",
+      "publisher": "DC Comics",
+      "alter_ego": "Dick Grayson",
+      "first_appearance": "Detective Comics #38",
+      "characters": "Dick Grayson"
+    },
+    {
+      "id": "dc-blue",
+      "superhero": "Blue Beetle",
+      "publisher": "DC Comics",
+      "alter_ego": "Dan Garret",
+      "first_appearance": "Mystery Men Comics #1",
+      "characters": "Dan Garret, Ted Kord, Jaime Reyes"
+    },
+    {
+      "id": "dc-black",
+      "superhero": "Black Canary",
+      "publisher": "DC Comics",
+      "alter_ego": "Dinah Drake",
+      "first_appearance": "Flash Comics #86",
+      "characters": "Dinah Drake, Dinah Lance"
+    },
+    {
+      "id": "marvel-spider",
+      "superhero": "Spider Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Peter Parker",
+      "first_appearance": "Amazing Fantasy #15",
+      "characters": "Peter Parker"
+    },
+    {
+      "id": "marvel-captain",
+      "superhero": "Captain America",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Steve Rogers",
+      "first_appearance": "Captain America Comics #1",
+      "characters": "Steve Rogers"
+    },
+    {
+      "id": "marvel-iron",
+      "superhero": "Iron Man",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Tony Stark",
+      "first_appearance": "Tales of Suspense #39",
+      "characters": "Tony Stark"
+    },
+    {
+      "id": "marvel-thor",
+      "superhero": "Thor",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Thor Odinson",
+      "first_appearance": "Journey into Myster #83",
+      "characters": "Thor Odinson"
+    },
+    {
+      "id": "marvel-hulk",
+      "superhero": "Hulk",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Bruce Banner",
+      "first_appearance": "The Incredible Hulk #1",
+      "characters": "Bruce Banner"
+    },
+    {
+      "id": "marvel-wolverine",
+      "superhero": "Wolverine",
+      "publisher": "Marvel Comics",
+      "alter_ego": "James Howlett",
+      "first_appearance": "The Incredible Hulk #180",
+      "characters": "James Howlett"
+    },
+    {
+      "id": "marvel-daredevil",
+      "superhero": "Daredevil",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Matthew Michael Murdock",
+      "first_appearance": "Daredevil #1",
+      "characters": "Matthew Michael Murdock"
+    },
+    {
+      "id": "marvel-hawkeye",
+      "superhero": "Hawkeye",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Clinton Francis Barton",
+      "first_appearance": "Tales of Suspense #57",
+      "characters": "Clinton Francis Barton"
+    },
+    {
+      "id": "marvel-cyclops",
+      "superhero": "Cyclops",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Scott Summers",
+      "first_appearance": "X-Men #1",
+      "characters": "Scott Summers"
+    },
+    {
+      "id": "marvel-silver",
+      "superhero": "Silver Surfer",
+      "publisher": "Marvel Comics",
+      "alter_ego": "Norrin Radd",
+      "first_appearance": "The Fantastic Four #48",
+      "characters": "Norrin Radd"
+    },
+    {
+      "id": "kUELn92",
+      "superhero": "vision",
+      "alter_ego": "Ranex",
+      "characters": "Iron man",
+      "first_appearance": "1227",
+      "publisher": "DC Comics",
+      "alt_img": "https://dam.smashmexico.com.mx/wp-content/uploads/2018/08/22150613/visionpoderes_portada.jpg"
+    },
+    {
+      "id": "HMSC88j",
+      "superhero": "Robin",
+      "alter_ego": "LEDTY",
+      "characters": "batman",
+      "first_appearance": "1698",
+      "publisher": "Marvel Comics",
+      "alt_img": "https://www.akiracomics.com/imagenes/poridentidad?identidad=b80a0c75-0096-4d4f-9172-0c19b2c8a634&ancho=850&alto="
+    },
+    {
+      "id": "XTqABxR",
+      "superhero": "Black spiderman",
+      "alter_ego": "cuard",
+      "characters": "spidy",
+      "first_appearance": "1239",
+      "publisher": "DC Comics",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLjGisO-sbrBIBgPDKw-NO689MLvgC0RyDw&usqp=CAU"
+    },
+    {
+      "id": "ruQgLR-",
+      "superhero": "Black panther",
+      "alter_ego": "biser",
+      "characters": "vision",
+      "first_appearance": "1674",
+      "publisher": "DC Comics",
+      "alt_img": "https://blogdesuperheroes.es/imagen-noti/107010_big.jpg"
+    },
+    {
+      "id": "fYKTz-6",
+      "superhero": "Halcon",
+      "alter_ego": "Pablpo",
+      "characters": "capitan america",
+      "first_appearance": "1786",
+      "publisher": "DC Comics",
+      "alt_img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/falcon-capi-poster-fotogramas-1623698383.jpg?crop=1.00xw:0.684xh;0,0&resize=480:*"
+    },
+    {
+      "id": "uwC0h8u",
+      "superhero": "capitana america",
+      "alter_ego": "lidy",
+      "characters": "capitan america",
+      "first_appearance": "1459",
+      "publisher": "DC Comics",
+      "alt_img": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "YamgwNu",
+      "superhero": "moon knight",
+      "alter_ego": "mateo",
+      "characters": "flash",
+      "first_appearance": "1907",
+      "publisher": "DC Comics",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIdsV4sgcd8nub36TnpUHNQA7mYJeL1_lF8A&usqp=CAU"
+    },
+    {
+      "id": "ywR75Hb",
+      "superhero": "acuaman",
+      "alter_ego": "pedro",
+      "characters": "halcon",
+      "first_appearance": "1627",
+      "publisher": "DC Comics",
+      "alt_img": "https://www.cinemascomics.com/wp-content/uploads/2018/12/critica-de-aquaman-color-dc-comics-amp.jpg?mrf-size=m"
+    },
+    {
+      "id": "cJjuKeT",
+      "superhero": "Viuda negra",
+      "alter_ego": "esther",
+      "characters": "thor",
+      "first_appearance": "1843",
+      "publisher": "DC Comics",
+      "alt_img": "https://los40es00.epimg.net/los40/imagenes/2019/04/04/cinetv/1554370544_827244_1554370836_noticia_normal.jpg"
+    },
+    {
+      "id": "rPO-OAQ",
+      "superhero": "Black widow",
+      "alter_ego": "lucia",
+      "characters": "halcon",
+      "first_appearance": "1890",
+      "publisher": "DC Comics",
+      "alt_img": "https://zonautara.com/wp-content/uploads/2021/09/sinopsis-black-widow-01.jpg"
+    },
+    {
+      "id": "KFKys2w",
+      "superhero": "avispa",
+      "alter_ego": "Paula",
+      "characters": "Robin",
+      "first_appearance": "1975",
+      "publisher": "DC Comics",
+      "alt_img": "https://elblogbuster.files.wordpress.com/2018/11/pdp_sq_.jpg?w=960"
+    },
+    {
+      "id": "KIUIzCp",
+      "superhero": "Ant man",
+      "alter_ego": "roberto",
+      "characters": "Superman",
+      "first_appearance": "1987",
+      "publisher": "DC Comics",
+      "alt_img": "https://laverdadnoticias.com/__export/1613399911385/sites/laverdad/img/2021/02/15/captura_de_pantalla_2021-02-15_a_laxsx_8_37_47.png_554688468.png"
+    },
+    {
+      "id": "sKSG8zI",
+      "superhero": "CAPITANA MARVEL",
+      "alter_ego": "Ana",
+      "characters": "cat woman",
+      "first_appearance": "1734",
+      "publisher": "DC Comics",
+      "alt_img": "https://imgwoman.elperiodico.com/35/e5/1a/captain-marvel-superheroe-marvel-600.jpg"
+    },
+    {
+      "id": "tjFNqw_",
+      "superhero": "cat woman",
+      "alter_ego": "Sofia",
+      "characters": "Batman",
+      "first_appearance": "1876",
+      "publisher": "DC Comics",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK3Rh8NpYUEcl13BT5qZVw5jP9kXVHAG9r3Q&usqp=CAU"
+    },
+    {
+      "id": "nfGn5t1",
+      "superhero": "yoker",
+      "alter_ego": "luis",
+      "characters": "octopus",
+      "first_appearance": "1267",
+      "publisher": "DC Comics",
+      "alt_img": "https://i.pinimg.com/originals/4a/48/9a/4a489aa6591e61ff9f9f509969eba125.jpg"
+    },
+    {
+      "id": "VvxwREK",
+      "superhero": "octopus",
+      "alter_ego": "daniel",
+      "characters": "yoker",
+      "first_appearance": "1887",
+      "publisher": "DC Comics",
+      "alt_img": "https://1.bp.blogspot.com/-usY1dfy2IBU/WWexF12ewsI/AAAAAAAAC1c/0GwLGI5-cXs3Ugh5II6RR1sNE0415mNbgCLcBGAs/s1600/Dr-Octopus-villano.png"
+    },
+    {
+      "id": "zeF0sgA",
+      "superhero": "wican",
+      "alter_ego": "carlos",
+      "characters": "flash",
+      "first_appearance": "1564",
+      "publisher": "DC Comics",
+      "alt_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73nFU0JHTWTGng0aVocNe9wFGI5bDv18XC_Piz48Ytd1nUxwUtDti70Ng3w3oWE58jZ0&usqp=CAU"
+    },
+    {
+      "id": "D-E9Dyw",
+      "superhero": "ice man",
+      "alter_ego": "juan",
+      "characters": "vision",
+      "first_appearance": "1679",
+      "publisher": "Marvel Comics",
+      "alt_img": "https://i.pinimg.com/originals/fd/81/8b/fd818baed9d3cafde37a5f3bcf8017b7.jpg"
+    },
+    {
+      "id": "xcOrnOT",
+      "superhero": "Tormenta",
+      "alter_ego": "Saray",
+      "characters": "iceman",
+      "first_appearance": "2020",
+      "publisher": "DC Comics",
+      "alt_img": "https://i.pinimg.com/originals/e0/f1/11/e0f111d7f288e46d3dc0b191e519c72b.jpg"
+    }
+  ]
+}
